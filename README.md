@@ -1,6 +1,7 @@
 ### Hi there, I'm Veronica 👋 
 - 😄 Pronouns: she/her/hers
-- 🌱 I’m currently a MSc candidate at McMaster University
+- 🌱 I’m currently a Psychology MSc candidate in the EdCog Lab at McMaster University
+- 🔭 I’m interested in instructor mindset beliefs and how they influence student performance, motivation, and engagement
 - 📫 Feel free to email me at cuiv@mcmaster.ca
 
 <!--
