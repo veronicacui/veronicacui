@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Veronica 👋 
 - 😄 Pronouns: she/her/hers
+- 🌱 I’m currently a MSc candidate at McMaster University
+- 📫 Feel free to email me at cuiv@mcmaster.ca
 
 <!--
 **veronicacui/veronicacui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
